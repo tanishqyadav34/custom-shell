@@ -18,7 +18,6 @@ A simple POSIX-compatible command-line shell written in C.
 - `make` for easy build
 
 ## Build
-
 ```bash
 make
 Or directly:
